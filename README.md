@@ -39,7 +39,7 @@
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/Dev-Connect.git
-    cd devconnect
+    cd Dev-Connect
     ```
 2. Install dependencies:
     ```bash
