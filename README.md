@@ -2,6 +2,8 @@
 
 **DevConnect** is a decentralized platform that connects developers with clients for instant video consultations using cryptocurrency payments. The platform enables real-time booking, secure crypto transactions, and high-quality video calls.
 
+## Watch our video demo here: https://drive.google.com/file/d/1p2ZhvaRHL7eZGzdTvoS4OOFdaYSf0UJx/view
+
 ## Features
 
 ### For Clients
