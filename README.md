@@ -115,10 +115,6 @@ npm run test
 - User data is stored locally with encryption.
 - Session tokens are temporary and secured.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **Agora.io** for video SDK.
